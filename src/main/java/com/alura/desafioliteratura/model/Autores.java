@@ -29,7 +29,7 @@ public class Autores {
         }
         this.anoDeNascimento = dadosAutor.anoNascimento();
         this.anoDaMorte = dadosAutor.anoDamorte();
-        this.livros = livros;
+        this.livros = livro;
     }
 
 
